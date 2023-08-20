@@ -45,7 +45,7 @@
           console.log(user)
           console.log(user.email)
           alert("registration successfully")
-          window.location.href="..\public\login\index.html"
+          window.location.href="../public/index.html"
           // ...
         })
            .catch((error) => {
